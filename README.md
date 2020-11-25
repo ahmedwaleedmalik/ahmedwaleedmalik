@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="27px">
+<!--    <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="27px"> -->
    <br><br>
    <samp>
    Hi! I am Waleed a Full Stack Developer from Islamabad, Pakistan. Having great knowledge and expertise in Java, Spring Framework, AngularJS, JavaScript, Kubernetes, Openshift
